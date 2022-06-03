@@ -14,7 +14,7 @@ and run the tests
 npm test
 ```
 
-Observe how the line numbers are of the test failure message in `remix.test.ts`.
+Observe how the line numbers are off in the test failure message in `remix.test.ts`.
 
 ![image](https://user-images.githubusercontent.com/225712/171851111-de753cf3-2060-4394-b592-fbc9fb4871cc.png)
 
